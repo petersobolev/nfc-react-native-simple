@@ -1,4 +1,4 @@
-package ru.enlight.nfcreactnative;
+package ru.enlight.nfcreactnativesimple;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
