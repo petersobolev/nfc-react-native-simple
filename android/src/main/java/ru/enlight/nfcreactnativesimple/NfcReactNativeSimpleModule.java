@@ -34,7 +34,7 @@ class NfcReactNativeSimpleModule extends ReactContextBaseJavaModule implements A
 
     final protected static char[] hexArray = "0123456789ABCDEF".toCharArray();
 
-    public NfcReactNativeModule(ReactApplicationContext reactContext) 
+    public NfcReactNativeSimpleModule(ReactApplicationContext reactContext) 
     {
         super(reactContext);
         this.reactContext = reactContext;
