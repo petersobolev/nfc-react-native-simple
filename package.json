@@ -1,11 +1,8 @@
 {
   "name": "nfc-react-native-simple",
-  "version": "0.3.8",
+  "version": "0.1",
   "description": "NFC read id module",
   "main": "index.android.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Peter Sobolev",
   "license": "MIT",
   "repository": {
