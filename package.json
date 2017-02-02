@@ -1,0 +1,15 @@
+{
+  "name": "nfc-react-native-simple",
+  "version": "0.3.8",
+  "description": "NFC read id module",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Sobolev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petersobolev/nfc-react-native-simple.git"
+  }
+}
