@@ -1,6 +1,6 @@
 {
   "name": "nfc-react-native-simple",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "NFC read id module",
   "main": "index.android.js",
   "author": "Peter Sobolev",
